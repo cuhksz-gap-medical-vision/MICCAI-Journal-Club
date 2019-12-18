@@ -8,4 +8,4 @@ Share Paper and PPT
 MICCAI 2019 Paper 的链接 
 链接: https://pan.baidu.com/s/18w1LtAAodhikKKiuhOJJ-A 提取码: 6qh8
 
-[](https://www.miccai2020.org/en/)
+[MICCAI 2020](https://www.miccai2020.org/en/)
